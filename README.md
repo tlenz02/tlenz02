@@ -6,8 +6,6 @@ I'm focused on data analytics and enjoy tasks where I can explore data, find pat
 
 I transitioned into analytics from sales, which helped me develop an understanding of business processes and the importance of making decisions based on data.
 
-Currently, I'm improving my SQL and Python skills and building analytical projects for my portfolio.
-
 ### 🛠 Tech Stack
 
 - **SQL** — data extraction, joins, CTEs, window functions, aggregations
