@@ -6,6 +6,8 @@ I'm focused on data analytics and enjoy tasks where I can explore data, find pat
 
 I transitioned into analytics from sales, which helped me develop an understanding of business processes and the importance of making decisions based on data.
 
+I work with SQL, Python and BI tools to analyze data, test hypotheses, calculate business metrics and present results through dashboards and clear analytical conclusions.
+
 ### 🛠 Tech Stack
 
 - **SQL** — data extraction, joins, CTEs, window functions, aggregations
@@ -14,15 +16,12 @@ I transitioned into analytics from sales, which helped me develop an understandi
 - **Statistics** — hypothesis testing, A/B testing, descriptive statistics
 - **Tools** — Jupyter Notebook, GitHub
 
-### 📊 Projects
+## 📊 Selected Projects
 
-Here you can find projects involving:
-
-- exploratory data analysis;
-- SQL analysis and business metrics;
-- A/B testing and statistical hypothesis testing;
-- dashboards and data visualization;
-- data cleaning and preprocessing.
+- [A/B Test Analysis](https://github.com/tlenz02/data-analytics-projects/tree/main/ab-test-analysis) — experiment design, split validation and statistical testing
+- [Product Metrics Analysis](https://github.com/tlenz02/data-analytics-projects/tree/main/product-metrics-analysis) — DAU, Conversion Rate, LTV, Retention and cohort analysis
+- [Event Sales & BI Dashboard](https://github.com/tlenz02/data-analytics-projects/tree/main/event-sales-bi-analysis) — SQL analysis and interactive Yandex DataLens dashboard
+- [Yandex Afisha Analysis](https://github.com/tlenz02/data-analytics-projects/tree/main/yandex-afisha-analysis) — exploratory data analysis and statistical hypothesis testing
 
 ### 📫 Contact
 
